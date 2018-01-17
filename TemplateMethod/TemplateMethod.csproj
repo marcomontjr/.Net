@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4545FCBB-11BD-4E27-9670-AD0590C5E0F3}</ProjectGuid>
+    <ProjectGuid>{92CF82E9-E19F-4B72-8544-A4B25BC1CEE2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ChainofResponsibility</RootNamespace>
-    <AssemblyName>ChainofResponsibility</AssemblyName>
+    <RootNamespace>TemplateMethod</RootNamespace>
+    <AssemblyName>TemplateMethod</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,19 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculo\CalculadorDeImpostos.cs" />
     <Compile Include="Calculo\Item.cs" />
     <Compile Include="Calculo\Orcamento.cs" />
-    <Compile Include="Calculo\CalculadorDeDescontos.cs" />
-    <Compile Include="Descontos\DecontoLapisCaneta.cs" />
-    <Compile Include="Descontos\DescontoPor5Itens.cs" />
-    <Compile Include="Descontos\DescontoPorMais500Reais.cs" />
-    <Compile Include="Descontos\IDesconto.cs" />
-    <Compile Include="Descontos\SemDesconto.cs" />
+    <Compile Include="Impostos\ICPP.cs" />
+    <Compile Include="Impostos\IKCV.cs" />
+    <Compile Include="Impostos\Imposto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Templates\TImpostoCondicional.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
