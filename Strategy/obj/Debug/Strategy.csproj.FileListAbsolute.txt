@@ -1,0 +1,5 @@
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Strategy\obj\Debug\Strategy.pdb

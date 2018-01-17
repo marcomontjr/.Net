@@ -1,0 +1,6 @@
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\obj\Debug\ChainofResponsibility.csprojResolveAssemblyReference.cache
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
