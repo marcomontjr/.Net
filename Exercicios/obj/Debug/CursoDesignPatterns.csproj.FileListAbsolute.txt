@@ -1,6 +1,0 @@
-c:\users\marco jr\documents\visual studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe.config
-c:\users\marco jr\documents\visual studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.exe
-c:\users\marco jr\documents\visual studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\bin\Debug\CursoDesignPatterns.pdb
-c:\users\marco jr\documents\visual studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.csprojResolveAssemblyReference.cache
-c:\users\marco jr\documents\visual studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.exe
-c:\users\marco jr\documents\visual studio 2017\Projects\CursoDesignPatterns\CursoDesignPatterns\obj\Debug\CursoDesignPatterns.pdb

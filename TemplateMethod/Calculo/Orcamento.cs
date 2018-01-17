@@ -16,6 +16,6 @@ namespace TemplateMethod
         public void AdiocionaItem(Item item)
         {
             Itens.Add(item);
-        }
+        }     
     }
 }

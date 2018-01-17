@@ -3,3 +3,4 @@ C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\TemplateMethod\bin\
 C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\TemplateMethod\bin\Debug\TemplateMethod.pdb
 C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\TemplateMethod\obj\Debug\TemplateMethod.exe
 C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache

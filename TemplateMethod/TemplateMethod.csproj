@@ -46,6 +46,7 @@
     <Compile Include="Calculo\Item.cs" />
     <Compile Include="Calculo\Orcamento.cs" />
     <Compile Include="Impostos\ICPP.cs" />
+    <Compile Include="Impostos\IHIT.cs" />
     <Compile Include="Impostos\IKCV.cs" />
     <Compile Include="Impostos\Imposto.cs" />
     <Compile Include="Program.cs" />
