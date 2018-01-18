@@ -1,6 +1,0 @@
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Exercicios\bin\Debug\Exercicios.exe.config
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Exercicios\bin\Debug\Exercicios.exe
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Exercicios\bin\Debug\Exercicios.pdb
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Exercicios\obj\Debug\Exercicios.csprojResolveAssemblyReference.cache
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Exercicios\obj\Debug\Exercicios.exe
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Exercicios\obj\Debug\Exercicios.pdb
