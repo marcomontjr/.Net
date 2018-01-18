@@ -1,11 +1,9 @@
-Cria uma corrente de responsabilidades em condições p/ aplicar algoritmos de regra de negócio em situações em que precisamos testar todos os 
-algoritmos envolvidos.
+Quando temos diferentes algoritmos que possuem estruturas parecidas, o Template Method é uma boa solução. Com ele,
+conseguimos definir, em um nível mais macro, a estrutura do algoritmo e deixar "buracos", que serão implementados
+de maneira diferente por cada uma das implementações específicas.
 
-O padrão Chain of Responsibility cai como uma luva quando temos uma lista de comandos a serem executados de acordo com algum cenário em específico,
-e sabemos também qual o próximo cenário que deve ser validado, caso o anterior não satisfaça a condição.
+Dessa forma, reutilizamos ao invés de repetirmos código, e facilitamos possíveis evoluções, tanto do algoritmo em
+sua estrutura macro, quanto dos detalhes do algoritmo, já que cada classe tem sua responsabilidade bem separada.
 
-Nesses casos, o Chain of Responsibility nos possibilita a separação de responsabilidades em classes pequenas e enxutas, e ainda provê uma maneira 
-flexível e desacoplada de juntar esses comportamentos novamente.
-
-O COR nos permite deixar todos os algoritmos necessários a disposição da regra de negócio, a fim de os mesmos serem executados até que um deles 
-se enquadro na necessidade da operação.
+O Template Method é muito importante de ser usado quando temos um elemento com arcabouço genérico só mudando 
+valores (que seriam validados com if else), pois assim escrevemos o código apenas uma vez.
