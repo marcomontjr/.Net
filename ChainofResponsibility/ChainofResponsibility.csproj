@@ -48,7 +48,7 @@
     <Compile Include="Descontos\DecontoLapisCaneta.cs" />
     <Compile Include="Descontos\DescontoPor5Itens.cs" />
     <Compile Include="Descontos\DescontoPorMais500Reais.cs" />
-    <Compile Include="Descontos\IDesconto.cs" />
+    <Compile Include="Interfaces\IDesconto.cs" />
     <Compile Include="Descontos\SemDesconto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

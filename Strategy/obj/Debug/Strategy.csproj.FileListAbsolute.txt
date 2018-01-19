@@ -3,3 +3,9 @@ C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Stra
 C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Strategy\bin\Debug\Strategy.pdb
 C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Strategy\obj\Debug\Strategy.exe
 C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Strategy\obj\Debug\Strategy.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Strategy\bin\Debug\Strategy.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Strategy\obj\Debug\Strategy.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\Strategy\obj\Debug\Strategy.pdb

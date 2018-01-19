@@ -48,7 +48,7 @@
     <Compile Include="Impostos\ICPP.cs" />
     <Compile Include="Impostos\IHIT.cs" />
     <Compile Include="Impostos\IKCV.cs" />
-    <Compile Include="Impostos\Imposto.cs" />
+    <Compile Include="Interfaces\Imposto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Templates\TImpostoCondicional.cs" />

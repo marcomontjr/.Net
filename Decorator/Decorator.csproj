@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Impostos\ICCC.cs" />
+    <Compile Include="Impostos\ICMS.cs" />
+    <Compile Include="Imposto.cs" />
+    <Compile Include="Impostos\ISS.cs" />
+    <Compile Include="Orcamento.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainofResponsibility", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{92CF82E9-E19F-4B72-8544-A4B25BC1CEE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio", "Exercicio\Exercicio.csproj", "{0B95019B-77B0-49CE-B963-C0B165EF80D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{1959AC26-B59F-430A-9297-FD94750E824A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{92CF82E9-E19F-4B72-8544-A4B25BC1CEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92CF82E9-E19F-4B72-8544-A4B25BC1CEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92CF82E9-E19F-4B72-8544-A4B25BC1CEE2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B95019B-77B0-49CE-B963-C0B165EF80D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B95019B-77B0-49CE-B963-C0B165EF80D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B95019B-77B0-49CE-B963-C0B165EF80D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B95019B-77B0-49CE-B963-C0B165EF80D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1959AC26-B59F-430A-9297-FD94750E824A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1959AC26-B59F-430A-9297-FD94750E824A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1959AC26-B59F-430A-9297-FD94750E824A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1959AC26-B59F-430A-9297-FD94750E824A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
