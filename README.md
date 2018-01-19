@@ -10,4 +10,5 @@ Boas Práticas de Programação.
   <li>Strategy</li>
   <li>Chain Of Responsibility</li>
   <li>Template Method</li>
+  <li>Decorator</li>
 </ul>
