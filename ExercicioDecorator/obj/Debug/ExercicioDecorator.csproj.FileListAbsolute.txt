@@ -1,0 +1,6 @@
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ExercicioDecorator\bin\Debug\ExercicioDecorator.exe.config
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ExercicioDecorator\bin\Debug\ExercicioDecorator.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ExercicioDecorator\bin\Debug\ExercicioDecorator.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ExercicioDecorator\obj\Debug\ExercicioDecorator.csprojResolveAssemblyReference.cache
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ExercicioDecorator\obj\Debug\ExercicioDecorator.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ExercicioDecorator\obj\Debug\ExercicioDecorator.pdb

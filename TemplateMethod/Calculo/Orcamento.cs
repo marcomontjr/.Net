@@ -13,7 +13,7 @@ namespace TemplateMethod
             Itens = new List<Item>();
         }   
         
-        public void AdiocionaItem(Item item)
+        public void AdicionaItem(Item item)
         {
             Itens.Add(item);
         }     
