@@ -11,4 +11,5 @@ Boas Práticas de Programação.
   <li>Chain Of Responsibility</li>
   <li>Template Method</li>
   <li>Decorator</li>
+  <li>State</li>
 </ul>
