@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1959AC26-B59F-430A-9297-FD94750E824A}</ProjectGuid>
+    <ProjectGuid>{510EAA21-925A-4754-A484-A3E4DEC71BC7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Decorator</RootNamespace>
-    <AssemblyName>Decorator</AssemblyName>
+    <RootNamespace>State</RootNamespace>
+    <AssemblyName>State</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,19 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Impostos\ICCC.cs" />
-    <Compile Include="Impostos\ICMS.cs" />
-    <Compile Include="Imposto.cs" />
-    <Compile Include="Impostos\ISS.cs" />
-    <Compile Include="Orcamento.cs" />
+    <Compile Include="Estados\Aprovado.cs" />
+    <Compile Include="Estados\EmAprovacao.cs" />
+    <Compile Include="Estados\Finalizado.cs" />
+    <Compile Include="Interfaces\IEstado.cs" />
+    <Compile Include="Estados\Reprovado.cs" />
+    <Compile Include="Orcamento\Item.cs" />
+    <Compile Include="Orcamento\Orcamento.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="DecoratorREADME.txt" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
