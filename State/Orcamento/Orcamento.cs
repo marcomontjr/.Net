@@ -14,7 +14,7 @@ namespace State
         {
             Valor = valor;
             itens = new List<Item>();
-            EstadoAtual = new EmAprovacao();
+            EstadoAtual = new EmAnalise();
         }     
 
         public void AplicaDescontoExtra()

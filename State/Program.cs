@@ -13,14 +13,13 @@ namespace State
             reforma.AplicaDescontoExtra();
             Console.WriteLine(reforma.Valor);
 
-            reforma.Aprova();
+            reforma.Aprova();        
 
             reforma.AplicaDescontoExtra();
             Console.WriteLine(reforma.Valor);
+            reforma.AplicaDescontoExtra();
 
             reforma.Finaliza();
-
-            reforma.AplicaDescontoExtra();
 
             Console.ReadKey();
         }

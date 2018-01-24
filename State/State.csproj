@@ -43,7 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Estados\Aprovado.cs" />
-    <Compile Include="Estados\EmAprovacao.cs" />
+    <Compile Include="Estados\EmAnalise.cs" />
     <Compile Include="Estados\Finalizado.cs" />
     <Compile Include="Interfaces\IEstado.cs" />
     <Compile Include="Estados\Reprovado.cs" />

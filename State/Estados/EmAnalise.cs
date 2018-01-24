@@ -3,10 +3,10 @@ using System;
 
 namespace State.Estados
 {
-    class Aprovado : IEstado
+    class EmAnalise : IEstado
     {
         bool descontoApenasUmaVez;
-        public Aprovado()
+        public EmAnalise()
         {
             descontoApenasUmaVez = true;
         }
@@ -14,28 +14,29 @@ namespace State.Estados
         {
             if (descontoApenasUmaVez)
             {
-                orcamento.Valor -= orcamento.Valor * 0.02;
+                orcamento.Valor -= orcamento.Valor * 0.05;
                 descontoApenasUmaVez = false;
             }
             else
             {
                 throw new Exception("O Desconto só pode ser aplicado uma vez.");
-            }      
+            }            
         }
 
         public void Aprova(Orcamento orcamento)
         {
-            throw new Exception("Orçamento já está Aprovado.");
+            orcamento.EstadoAtual = new Aprovado();
         }
 
         public void Reprova(Orcamento orcamento)
         {
-            throw new Exception("Orçamento está aprovado");
+            orcamento.EstadoAtual = new Reprovado();
         }
 
         public void Finaliza(Orcamento orcamento)
         {
-            orcamento.EstadoAtual = new Finalizado();
+            throw new Exception("Orçamento em Análise não poder ser Finalizado.");
         }
+
     }
 }
