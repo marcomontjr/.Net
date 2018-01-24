@@ -12,4 +12,5 @@ Boas Práticas de Programação.
   <li>Template Method</li>
   <li>Decorator</li>
   <li>State</li>
+  <li>Builder</li>
 </ul>
