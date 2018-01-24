@@ -1,6 +1,0 @@
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\State\obj\Debug\State.csprojResolveAssemblyReference.cache
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\State\bin\Debug\State.exe.config
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\State\bin\Debug\State.exe
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\State\bin\Debug\State.pdb
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\State\obj\Debug\State.exe
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\State\obj\Debug\State.pdb

@@ -4,9 +4,3 @@ C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\Chai
 C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\obj\Debug\ChainofResponsibility.csprojResolveAssemblyReference.cache
 C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
 C:\Users\Marco Jr\documents\visual studio 2017\Projects\CursoDesignPatterns\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ChainofResponsibility\obj\Debug\ChainofResponsibility.csprojResolveAssemblyReference.cache
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
-C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\.Net\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb
