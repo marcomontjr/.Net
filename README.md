@@ -12,5 +12,5 @@ Boas Práticas de Programação.
   <li>Template Method</li>
   <li>Decorator</li>
   <li>State</li>
-  <li>Builder</li>
+  <li>Builder(Utilizando Fluence Interface e Method Chaining)</li>
 </ul>
