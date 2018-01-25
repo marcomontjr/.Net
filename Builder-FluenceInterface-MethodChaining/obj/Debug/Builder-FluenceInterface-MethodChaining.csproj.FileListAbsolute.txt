@@ -1,0 +1,6 @@
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Builder-FluenceInterface-MethodChaining\bin\Debug\Builder-FluenceInterface-MethodChaining.exe.config
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Builder-FluenceInterface-MethodChaining\bin\Debug\Builder-FluenceInterface-MethodChaining.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Builder-FluenceInterface-MethodChaining\bin\Debug\Builder-FluenceInterface-MethodChaining.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Builder-FluenceInterface-MethodChaining\obj\Debug\Builder-FluenceInterface-MethodChaining.csprojResolveAssemblyReference.cache
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Builder-FluenceInterface-MethodChaining\obj\Debug\Builder-FluenceInterface-MethodChaining.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Builder-FluenceInterface-MethodChaining\obj\Debug\Builder-FluenceInterface-MethodChaining.pdb

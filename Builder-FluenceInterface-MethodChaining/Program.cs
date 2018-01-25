@@ -20,7 +20,7 @@ namespace Builder
 
             Console.WriteLine(nf.ValBruto);
             Console.WriteLine(nf.Impostos);
-            Console.ReadKey();            
+            Console.ReadKey();
         }
     }
 }

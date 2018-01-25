@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{510EAA21-925A-4754-A484-A3E4DEC71BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioState", "ExercicioState\ExercicioState.csproj", "{4DE596E2-6D1B-40AC-B689-A2B1A29511D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder-FluenceInterface-MethodChaining", "Builder-FluenceInterface-MethodChaining\Builder-FluenceInterface-MethodChaining.csproj", "{312BAA3C-CCC0-45B7-A8CA-263C5A60A44B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{510EAA21-925A-4754-A484-A3E4DEC71BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{510EAA21-925A-4754-A484-A3E4DEC71BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{510EAA21-925A-4754-A484-A3E4DEC71BC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4DE596E2-6D1B-40AC-B689-A2B1A29511D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4DE596E2-6D1B-40AC-B689-A2B1A29511D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4DE596E2-6D1B-40AC-B689-A2B1A29511D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4DE596E2-6D1B-40AC-B689-A2B1A29511D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312BAA3C-CCC0-45B7-A8CA-263C5A60A44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312BAA3C-CCC0-45B7-A8CA-263C5A60A44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312BAA3C-CCC0-45B7-A8CA-263C5A60A44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312BAA3C-CCC0-45B7-A8CA-263C5A60A44B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

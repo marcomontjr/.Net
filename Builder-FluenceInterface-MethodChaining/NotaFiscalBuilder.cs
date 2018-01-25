@@ -8,7 +8,7 @@ namespace Builder
         public string RazaoSocial { get; private set; }
         public string Cnpj { get; private set; }
         public string Observacoes { get; private set; }
-        public DateTime Data { get; private set; }        
+        public DateTime Data { get; private set; }
 
         public NotaFiscal Constroi()
         {
