@@ -14,20 +14,20 @@ namespace Builder
         public String Observacoes { get; set; }
 
         public NotaFiscal(String razaoSocial
-                        , String cnpj
-                        , DateTime dataEmissao
+                        , String cnpj                        
                         , double valBruto
                         , double impostos
                         , IList<ItemNota> itens
-                        , String obs)
+                        , String obs
+                        , DateTime dataEmissao)
         {
             RazaoSocial = razaoSocial;
-            Cnpj = cnpj;
-            DataEmissao = dataEmissao;
+            Cnpj = cnpj;            
             ValBruto = valBruto;
             Impostos = impostos;
             Itens = itens;
             Observacoes = obs;
+            DataEmissao = dataEmissao;
         }
     }
 }

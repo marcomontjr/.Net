@@ -8,12 +8,21 @@ namespace Builder
         public string RazaoSocial { get; private set; }
         public string Cnpj { get; private set; }
         public string Observacoes { get; private set; }
-        public DateTime Data { get; private set; }
+        public DateTime /*Calendar*/ Data { get; private set; }
 
         public NotaFiscal Constroi()
         {
-            return new NotaFiscal(RazaoSocial, Cnpj, Data, valorTotal, impostos, todosItens, Observacoes);
+            return new NotaFiscal(RazaoSocial, Cnpj, valorTotal, impostos, todosItens, Observacoes, 
+                Data.GetHashCode() == 0 ? Data = DateTime.Now : Data);
         }
+
+        /*Outra opção para resolver o problema da data opcional seria setar no construtor.
+         * Com isso retirar a lógica na passagem de parâmetros e apenas passar a data.
+        public NotaFiscalBuilder()
+        {
+            Data = DateTime.Now;
+        
+        }*/
 
         public NotaFiscalBuilder ComObservacoes(string obs)
         {
@@ -21,9 +30,9 @@ namespace Builder
             return this;
         }
 
-        public NotaFiscalBuilder NaDataAtual()
+        public NotaFiscalBuilder NaData(DateTime data)
         {
-            Data = DateTime.Now;
+            Data = data;            
             return this;
         }
 

@@ -1,0 +1,6 @@
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\TemplateMethod\obj\Debug\TemplateMethod.pdb
