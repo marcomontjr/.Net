@@ -13,4 +13,5 @@ Boas Práticas de Programação.
   <li>Decorator</li>
   <li>State</li>
   <li>Builder (Utilizando <i>Fluence Interface</i> e <i>Method Chaining</i>)</li>
+   <li>Observer</li>
 </ul>
