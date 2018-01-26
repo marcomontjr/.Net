@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{312BAA3C-CCC0-45B7-A8CA-263C5A60A44B}</ProjectGuid>
+    <ProjectGuid>{053B1D63-839C-47E5-9287-F85B9DA952AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Builder_FluenceInterface_MethodChaining</RootNamespace>
-    <AssemblyName>Builder-FluenceInterface-MethodChaining</AssemblyName>
+    <RootNamespace>Observer</RootNamespace>
+    <AssemblyName>Observer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,18 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\AcaoAposGerarNota.cs" />
+    <Compile Include="Acoes\EnviadorDeEmail.cs" />
+    <Compile Include="Acoes\EnviadorDeSMS.cs" />
+    <Compile Include="Acoes\NotaFiscalDao.cs" />
     <Compile Include="Builders\ItemNotaBuilder.cs" />
+    <Compile Include="Builders\NotaFiscalBuilder.cs" />
     <Compile Include="ItemNota.cs" />
     <Compile Include="NotaFiscal.cs" />
-    <Compile Include="Builders\NotaFiscalBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="BuilderREADME.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

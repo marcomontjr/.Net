@@ -1,0 +1,5 @@
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\bin\Debug\Observer.exe.config
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\bin\Debug\Observer.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\bin\Debug\Observer.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\obj\Debug\Observer.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\obj\Debug\Observer.pdb
