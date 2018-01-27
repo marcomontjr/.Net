@@ -3,3 +3,4 @@ C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Obs
 C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\bin\Debug\Observer.pdb
 C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\obj\Debug\Observer.exe
 C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\obj\Debug\Observer.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\Design Patterns\.Net\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
